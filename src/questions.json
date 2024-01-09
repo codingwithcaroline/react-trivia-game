@@ -1,0 +1,14 @@
+{
+    "questions": [
+        {
+            "question": "What is my Name?",
+            "choices": ["Caroline", "Bjarne", "Steve", "Donald"],
+            "correctAnswerIdx": 0
+        },
+        {
+            "question": "What is my Name?",
+            "choices": ["Kirkconnell", "Stroustrup", "Jobs", "Knuth"],
+            "correctAnswerIdx": 0
+        }
+    ]
+}
